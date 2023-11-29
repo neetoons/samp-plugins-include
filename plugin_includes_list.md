@@ -26,6 +26,7 @@ https://github.com/pawn-lang/sa-mp-fixes
 https://github.com/pawn-lang/compiler
 https://github.com/oscar-broman/samp-weapon-config
 https://github.com/ohmypxl/client-check
+https://github.com/Nickk888SAMP/TextDraw-Editor
 https://github.com/NexiusTailer/Nex-AC
 https://github.com/NexiusTailer/Alternative-Dialogs 
 https://github.com/Mythic-Corporation/Animated-Notifications
