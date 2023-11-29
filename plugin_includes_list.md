@@ -38,7 +38,7 @@ https://github.com/Southclaws/samp-plugin-mapandreas
 https://github.com/BigETI/Dini
 https://github.com/YashasSamaga/I-ZCMD
 https://github.com/ziggi/FCNPC
-https://github.com/Southclaws/samp-whirlpool nota: mejor usa bcrypt
+https://github.com/Southclaws/samp-whirlpool note: bcrypt is better than this.
 https://github.com/NexiusTailer/Alternative-Dialogs 
 https://github.com/Southclaws/samp-camera-sequencer
 https://github.com/Mythic-Corporation/Animated-Notifications
