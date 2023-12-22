@@ -44,6 +44,7 @@ https://github.com/samp-incognito/samp-streamer-plugin
 https://github.com/sanpezlo/td-notification
 https://github.com/Se8870/mSelection
 https://github.com/Southclaws/pawn-requests
+https://github.com/Southclaws/pawn-uuid
 https://github.com/Southclaws/progress2
 https://github.com/Southclaws/samp-attachedit
 https://github.com/Southclaws/samp-camera-sequencer
