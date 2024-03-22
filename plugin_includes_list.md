@@ -61,3 +61,9 @@ https://github.com/YashasSamaga/I-ZCMD
 https://github.com/Zeex/samp-plugin-crashdetect
 https://github.com/Zeex/samp-plugin-profiler
 https://github.com/ziggi/FCNPC
+https://github.com/Fairuz-Afdhal/IsPlayerUsingAndroid
+https://github.com/adib-yg/SAMP-Mobile-Checker
+https://github.com/adib-yg/SAMP-RGB-Textdraw
+https://github.com/alexchwoj/pawn-easing-functions
+https://github.com/Naseband/SAMP-Peds
+https://github.com/AmyrAhmady/samp-node
