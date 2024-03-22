@@ -50,7 +50,7 @@ https://github.com/Southclaws/samp-attachedit
 https://github.com/Southclaws/samp-camera-sequencer
 https://github.com/Southclaws/samp-logger
 https://github.com/Southclaws/samp-plugin-mapandreas
-https://github.com/Southclaws/samp-whirlpool note: bcrypt is better than this.
+https://github.com/Southclaws/samp-whirlpool
 https://github.com/southclaws/sampctl
 https://github.com/Southclaws/zcmd
 https://github.com/spacemud/strlib
