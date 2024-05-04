@@ -93,3 +93,4 @@ https://github.com/Ramon-Sd/marker-plus
 https://github.com/nexquery/samp-textdraw-streamer
 https://github.com/Ino-Bagaric/OxygenController
 https://github.com/oscar-broman/sky
+https://github.com/alexchwoj/pawn-easing-functions/tree/main
